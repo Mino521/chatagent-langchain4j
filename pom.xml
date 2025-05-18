@@ -69,6 +69,12 @@
             <version>4.3.0</version>
         </dependency>
 
+        <!-- langchain4j advanced func -->
+        <dependency>
+            <groupId>dev.langchain4j</groupId>
+            <artifactId>langchain4j-spring-boot-starter</artifactId>
+        </dependency>
+        <!-- langchain4j openai protocol -->
         <dependency>
             <groupId>dev.langchain4j</groupId>
             <artifactId>langchain4j-open-ai-spring-boot-starter</artifactId>
